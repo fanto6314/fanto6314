@@ -1,0 +1,4 @@
+- 👋 Hi, my name's Anto
+- 👀 I’m interested in software development
+- 🌱 I’m currently learning java, javascript and php
+- 📫 How to reach me?  anto#7777 on discord
