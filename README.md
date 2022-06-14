@@ -29,14 +29,14 @@ I'm pretty good with PHP, and JS.
 
 ### Github Stats
 
-[![fanto6314's stats](https://github-readme-stats.vercel.app/api?username=fanto6314&show_icons=true&count_private=true)](https://github.com/fanto6314)
+[![fanto6314's stats](https://github-readme-stats.vercel.app/api?username=fanto6314&show_icons=true&count_private=true&theme=dracula)](https://github.com/fanto6314)
 
 ### Github Repos
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=fanto6314&repo=eduhub&show_owner=true)](https://github.com/fanto6314/eduhub)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=fanto6314&repo=telegram-news-bot&show_owner=true)](https://github.com/fanto6314/telegram-news-bot)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=fanto6314&repo=php-mvc&show_owner=true)](https://github.com/fanto6314/php-mvc)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=fanto6314&repo=php-google-auth&show_owner=true)](https://github.com/fanto6314/php-google-auth)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=fanto6314&repo=eduhub&show_owner=true&theme=dracula)](https://github.com/fanto6314/eduhub)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=fanto6314&repo=telegram-news-bot&show_owner=true&theme=dracula)](https://github.com/fanto6314/telegram-news-bot)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=fanto6314&repo=php-mvc&show_owner=true&theme=dracula)](https://github.com/fanto6314/php-mvc)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=fanto6314&repo=php-google-auth&show_owner=true&theme=dracula)](https://github.com/fanto6314/php-google-auth)
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="left">
