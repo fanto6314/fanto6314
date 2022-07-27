@@ -40,7 +40,7 @@ I'm pretty good with PHP, and JS.
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="left">
-<a href="https://anto6314.tech" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-anto6314.tech-blue?style=flat&logo=google-chrome"></a>
+<a href="https://anto6314.net" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-anto6314.net-blue?style=flat&logo=google-chrome"></a>
 <a href="mailto:antonio.foresta04@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-antonio.foresta04@gmail.com-blue?style=flat&logo=gmail"></a>
  <a href="https://discord.com/channels/@me/anto#1111"><img alt="Discord" src="https://img.shields.io/badge/Discord-anto6314-blue?style=flat&logo=discord"></a>
 </p>
