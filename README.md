@@ -3,8 +3,8 @@
  <h2 align="center">Profile</h2>
 </p>
 
-### Hi there 👋 I'm [anto6314](https://anto6314.tech)
-> apprentice at [USI](https://www.usi.ch)
+### Hi there 👋 I'm anto6314
+> Working at [USI](https://www.usi.ch)
 
 
 <img src="https://komarev.com/ghpvc/?username=fanto6314" alt="fanto6314" />
