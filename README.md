@@ -19,8 +19,8 @@ I'm pretty good with PHP, and JS.
 
 ### Programming Languages 🌐
 
-| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="php" width="38">](https://php.net/) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" width="24">](https://www.javascript.com/) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" alt="C#" width="24">](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java" width="24">](https://java.com/)
-|---|---|---|---|
+| [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="ReactJS" width="24">](https://react.dev) |  [<img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" alt="NodeJS" width="24">](https://www.nodejs.org/) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java" width="24">](https://java.com/)
+|---|---|---|
  
 ### Tools 🛠️
 
