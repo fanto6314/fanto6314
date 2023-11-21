@@ -1,5 +1,5 @@
 <p align="center">
- <img width="1040px" src="https://cdn.ethpays.co/v1/images/static/bg.png" align="center" alt="Github Readme Stats"/>
+ <img width="140px" src="https://avatars.githubusercontent.com/u/62208053?v=4" align="center" alt="Github Readme Stats"/>
  <h2 align="center">Profile</h2>
 </p>
 
@@ -10,16 +10,20 @@
 
 <img src="https://komarev.com/ghpvc/?username=fanto6314" alt="fanto6314" />
 
-<div>
- <p>
-I am a Software Developer based in Switzerland, Ticino.
+- 🔭 I’m currently working on [EthPays Exchange](https://github.com/orgs/ethpays/)
 
-I'm pretty good with JS (Node & React), at least I hope so.
+- 🌱 I’m currently learning **Next.JS**
 
-Enthusiast & believer of the Crypto world since 2018.
-</p>
-</div>
+- 👨‍💻 All of my projects are available at [https://github.com/fanto6314](https://github.com/fanto6314)
+
+- 💬 Ask me about **ReactJS, NodeJS**
+
+- 📫 How to reach me **antonio.foresta04@gmail.com**
 
 ### Github Stats
 
-[![fanto6314's stats](https://github-readme-stats.vercel.app/api?username=fanto6314&show_icons=true&count_private=true&theme=transparent&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF)](https://github.com/fanto6314)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fanto6314&show_icons=true&theme=dark&locale=en" alt="fanto6314" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fanto6314&theme=dark" alt="fanto6314" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fanto6314&show_icons=true&theme=dark&locale=en&layout=compact" alt="fanto6314" /></p>
