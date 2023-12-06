@@ -1,5 +1,5 @@
 <p align="center">
- <img width="140px" src="https://avatars.githubusercontent.com/u/62208053?v=4" align="center" alt="Github Readme Stats"/>
+ <img src="./github-header-image.png" align="center" alt="Github Readme Stats"/>
  <h2 align="center">Profile</h2>
 </p>
 
