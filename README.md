@@ -22,8 +22,10 @@
 
 ### Github Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fanto6314&show_icons=true&theme=dark&locale=en" alt="fanto6314" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-delta-teal-32.vercel.app/api?username=fanto6314&show_icons=true&theme=dark&locale=en" alt="fanto6314" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fanto6314&theme=dark" alt="fanto6314" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fanto6314&show_icons=true&theme=dark&locale=en&layout=compact" alt="fanto6314" /></p>
+<p><img align="center" src="https://github-readme-stats-delta-teal-32.vercel.app/api/wakatime?username=anto6314&theme=dark&locale=en" alt="fanto6314"/></p>
+
+<p><img align="left" src="https://github-readme-stats-delta-teal-32.vercel.app/api/top-langs?username=fanto6314&show_icons=true&theme=dark&locale=en&layout=compact" alt="fanto6314" /></p>
