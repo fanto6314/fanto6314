@@ -3,9 +3,11 @@
  <h2 align="center">Profile</h2>
 </p>
 
-### Hello everyone 👋 I'm anto6314, founder of <a href="https://github.com/ethpays">@ethpays</a>
+### Hello everyone 👋 I'm anto6314, founder of <a href="https://github.com/ethpays">@ethpays</a> & <a href="https://store.andromeda-hosting.com/">Andromeda Hosting</a>
 
 > Developer & Owner of [EthPays.co](https://ethpays.co/anto6314)
+> 
+> CTO & Owner of [Andromeda Hosting](https://store.andromeda-hosting.com)
 
 
 <img src="https://komarev.com/ghpvc/?username=fanto6314" alt="fanto6314" />
@@ -18,7 +20,7 @@
 
 - 💬 Ask me about **ReactJS, NodeJS**
 
-- 📫 How to reach me **antonio.foresta04@gmail.com**
+- 📫 Business Inquiries **antonio.foresta04@gmail.com**
 
 ### Github Stats
 
