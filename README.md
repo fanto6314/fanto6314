@@ -3,7 +3,7 @@
  <h2 align="center">Profile</h2>
 </p>
 
-### Hello everyone 👋 I'm anto6314, founder of <a href="https://github.com/ethpays">@ethpays</a> & <a href="https://store.andromeda-hosting.com/">Andromeda Hosting</a>
+### Hello everyone 👋 I'm anto6314, founder of <a href="https://github.com/ethpays">@ethpays</a>
 
 > Developer & Owner of [EthPays.co](https://ethpays.co/anto6314)
 > 
