@@ -6,8 +6,6 @@
 ### Hello everyone 👋 I'm anto6314, founder of <a href="https://github.com/ethpays">@ethpays</a>
 
 > Developer & Owner of [EthPays.co](https://ethpays.co/anto6314)
-> 
-> CTO & Owner of [Andromeda Hosting](https://store.andromeda-hosting.com)
 
 
 <img src="https://komarev.com/ghpvc/?username=fanto6314" alt="fanto6314" />
