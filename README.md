@@ -3,14 +3,12 @@
  <h2 align="center">Profile</h2>
 </p>
 
-### Hello everyone 👋 I'm anto6314, founder of <a href="https://github.com/ethpays">@ethpays</a>
+### Hello everyone 👋 I'm anto6314.
 
-> Developer & Owner of [EthPays.co](https://ethpays.co/anto6314)
+> Developer
 
 
 <img src="https://komarev.com/ghpvc/?username=fanto6314" alt="fanto6314" />
-
-- 🔭 I’m currently working on [EthPays Exchange](https://github.com/orgs/ethpays/)
 
 - 🌱 I’m currently learning **Next.JS**
 
@@ -23,8 +21,6 @@
 ### Github Stats
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-delta-teal-32.vercel.app/api?username=fanto6314&show_icons=true&theme=dark&locale=en" alt="fanto6314" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fanto6314&theme=dark" alt="fanto6314" /></p>
 
 <p><img align="center" src="https://github-readme-stats-delta-teal-32.vercel.app/api/wakatime?username=anto6314&theme=dark&locale=en" alt="fanto6314"/></p>
 
