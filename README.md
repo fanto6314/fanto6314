@@ -14,9 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/fanto6314](https://github.com/fanto6314)
 
-- 💬 Ask me about **ReactJS, NodeJS**
-
-- 📫 Business Inquiries **antonio.foresta04@gmail.com**
+- 💬 Ask me about **ReactJS, NodeJS*
 
 ### Github Stats
 
